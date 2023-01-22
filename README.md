@@ -1,5 +1,5 @@
 # Moving-Eyes
-This project contains three files- CSS, HTML, and JS. When opened in the browser two "eyes" will appear. As one drags their cursor around the pupils will follow. 
+This project contains three files- CSS, HTML, and JS. When opened in the browser two "eyes" will appear. As one drags their cursor around the page, the pupils will follow. 
 
 Future Improvements: When your cursor is over the middle of the eyes the pupils do not properly follow. Instead the pupils stay in the middle of the eye when they should be "cross eyed" pointing at the cursor.
 
